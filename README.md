@@ -19,6 +19,8 @@ The analysis identified 216 distinct connected components in the image. The orig
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[ZIP topology](https://github.com/sourceduty/ZIP_Topology)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
