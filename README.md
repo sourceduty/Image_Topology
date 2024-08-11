@@ -1,4 +1,4 @@
-![Image Topology](https://github.com/user-attachments/assets/6b79eab8-e83c-43e6-a40a-a58c15984476)
+![Image Topology](https://github.com/user-attachments/assets/a21f71f9-edec-422d-b28b-e400c934026c)
 
 > Analyze topological properties of images.
 
